@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am a Undergraduate in Computer Science im Aspiring to become a A Computer Science Researcher and a Entreprenuer
+🔭 I’m currently working on Machine Learning and Backend Development<br>⚡ Fun fact: I play guitar
 
 
 ## 🌐 Socials:
