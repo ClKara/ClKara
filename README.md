@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a Undergraduate in Computer Science im Aspiring to become a A Computer Science Researcher and a Entreprenuer<br>
 🔭 I’m currently working on Machine Learning and Backend Development<br>⚡ Fun fact: I play guitar
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 
 ## 🌐 Socials:
