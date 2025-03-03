@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Undergraduate in Computer Science im Aspiring to become a A Computer Science Researcher and a Entreprenuer
+I am a Undergraduate in Computer Science im Aspiring to become a A Computer Science Researcher and a Entreprenuer<br>
 🔭 I’m currently working on Machine Learning and Backend Development<br>⚡ Fun fact: I play guitar
 
 
